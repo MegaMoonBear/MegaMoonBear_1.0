@@ -1,9 +1,8 @@
-#  Meghan's Markdown practice for Blog
-## 1.0.3 - Markdown
+#  Meghan's Markdown practice to prep for Blog *1.0.3*
 
 ## Who am I? 🙋‍♀️❓
 
-I like to **dance** 💃, garden 💮, go to movies with my husband and son 🎥 and to live music events at small venues 🎷. I work at Hollywood Feed, a pet supply store 🐕🐈‍⬛. I have had many jobs in my *53 years* - giraffe 🦒 and husky caretaker, English and Japanese teacher 🧑‍🏫, education and wildlife researcher 📚🐻, and socio-economic and habitat use analyst 📊. 
+I like to **dance** 💃, garden 💮, go to movies with my husband and son 🎥 and to live music events at small venues 🎷. I work at Hollywood Feed, a pet supply store 🐕🐈‍⬛. I have had many jobs in my *53 years* - giraffe 🦒 and husky 🐺 caretaker, English and Japanese teacher 🗣️🧑‍🏫, education and wildlife researcher 📚🐻, and socio-economic and habitat use analyst 📊. 
 
 I am in coding school to upskill from Analyst to Data Scientist of the last 15+ years of my career. 
 1. SQL *self-taught novice* 
